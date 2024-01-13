@@ -1,10 +1,4 @@
-# 基于jsp的宿舍管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**宿舍4**    ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于jsp的宿舍管理系统4
 
 ## 1、项目介绍
 
@@ -14,6 +8,11 @@
 - 宿管：缺勤登记、缺勤记录、学生管理
 - 学生：查看缺勤记录
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**宿舍**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 2、项目技术
 
@@ -34,48 +33,39 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301901295.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207301901295.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-楼宇管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902415.jpg)
+![管理员-楼宇管理员管理](https://www.codeshop.fun/Typora-Images/202207301902415.jpg)
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902957.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202207301902957.jpg)
 
-![管理员-楼宇管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902953.jpg)
+![管理员-楼宇管理](https://www.codeshop.fun/Typora-Images/202207301902953.jpg)
 
-![管理员-添加楼宇管理员](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902412.jpg)
+![管理员-添加楼宇管理员](https://www.codeshop.fun/Typora-Images/202207301902412.jpg)
 
-![管理员-宿舍管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902146.jpg)
+![管理员-宿舍管理](https://www.codeshop.fun/Typora-Images/202207301902146.jpg)
 
-![管理员-学生入住登记](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902805.jpg)
+![管理员-学生入住登记](https://www.codeshop.fun/Typora-Images/202207301902805.jpg)
 
-![管理员-学生寝室调换](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902695.jpg)
+![管理员-学生寝室调换](https://www.codeshop.fun/Typora-Images/202207301902695.jpg)
 
-![管理员-学生迁出登记](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902227.jpg)
+![管理员-学生迁出登记](https://www.codeshop.fun/Typora-Images/202207301902227.jpg)
 
-![管理员-学生缺勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902226.jpg)
+![管理员-学生缺勤记录](https://www.codeshop.fun/Typora-Images/202207301902226.jpg)
 
-![管理员-学生迁出记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902123.jpg)
+![管理员-学生迁出记录](https://www.codeshop.fun/Typora-Images/202207301902123.jpg)
 
 ### 4.3 宿管模块
 
-![宿管-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902859.jpg)
+![宿管-学生管理](https://www.codeshop.fun/Typora-Images/202207301902859.jpg)
 
-![宿管-缺勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902973.jpg)
+![宿管-缺勤记录](https://www.codeshop.fun/Typora-Images/202207301902973.jpg)
 
-![宿管-缺勤登记](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902380.jpg)
+![宿管-缺勤登记](https://www.codeshop.fun/Typora-Images/202207301902380.jpg)
 
 ### 4.4学生模块
 
-![学生-查看缺勤记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207301902213.jpg)
-
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**宿舍4**     ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![学生-查看缺勤记录](https://www.codeshop.fun/Typora-Images/202207301902213.jpg)
 
